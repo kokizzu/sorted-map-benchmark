@@ -1,6 +1,6 @@
 module modernc.org/benchmark-ordered-map
 
-go 1.18
+go 1.26.10
 
 require (
 	github.com/3xian/elephantlist v0.0.0-20140607022226-3d608579b1a8
